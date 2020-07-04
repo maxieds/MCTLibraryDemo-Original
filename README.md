@@ -1,6 +1,7 @@
-# ParklinkMCTLibraryDemo Application
+# MCTLibraryDemo Application
 
-Demo Android application for the Mifare Classic Tool library developed for Parklink. 
+Demo Android application for the 
+[Mifare Classic Tool library](https://github.com/maxieds/MifareClassicToolLibrary). 
 Note that for the most part this demo application should serve as documentation 
 for how to use the library in client applications. Other main documentation is 
 provided in this README below. 

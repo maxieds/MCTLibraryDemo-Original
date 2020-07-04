@@ -1,4 +1,4 @@
-package com.maxieds.ParklinkMCTLibraryDemo;
+package com.maxieds.MCTLibraryDemo;
 
 import android.widget.LinearLayout;
 import android.widget.TextView;
@@ -9,7 +9,7 @@ import android.util.Log;
 
 import java.util.Locale;
 
-import com.maxieds.ParklinkMCTLibraryDemo.R;
+import com.maxieds.MCTLibraryDemo.R;
 import com.maxieds.MifareClassicToolLibrary.MifareClassicToolLibrary;
 import com.maxieds.MifareClassicToolLibrary.MifareClassicTag;
 import com.maxieds.MifareClassicToolLibrary.MifareClassicUtils;

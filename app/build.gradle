@@ -29,7 +29,7 @@ android {
 
     defaultConfig {
 
-        applicationId "com.maxieds.ParklinkMCTLibraryDemo"
+        applicationId "com.maxieds.MCTLibraryDemo"
         minSdkVersion 25
         targetSdkVersion 28
         versionCode 19
@@ -71,7 +71,6 @@ repositories {
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation 'com.android.support:appcompat-v7:28.0.0'
-    //implementation project(':MifareClassicToolLibrary')
-    implementation 'com.github.maxieds:ParklinkMifareClassicToolLibrary:1.1.8'
+    implementation 'com.github.maxieds:MifareClassicToolLibrary:1.1.9'
     implementation 'com.nononsenseapps:filepicker:4.1.0'
 }

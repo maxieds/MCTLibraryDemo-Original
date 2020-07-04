@@ -1,4 +1,4 @@
-package com.maxieds.ParklinkMCTLibraryDemo;
+package com.maxieds.MCTLibraryDemo;
 
 import android.app.Activity;
 import android.support.v7.app.AlertDialog;
@@ -18,7 +18,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Locale;
 
-import com.maxieds.ParklinkMCTLibraryDemo.R;
+import com.maxieds.MCTLibraryDemo.R;
 import com.maxieds.MifareClassicToolLibrary.MCTUtils;
 import  com.maxieds.MifareClassicToolLibrary.MifareClassicToolLibrary;
 

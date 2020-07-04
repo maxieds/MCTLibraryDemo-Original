@@ -1,4 +1,4 @@
-package com.maxieds.ParklinkMCTLibraryDemo;
+package com.maxieds.MCTLibraryDemo;
 
 import android.Manifest;
 import android.app.Activity;
@@ -169,7 +169,7 @@ public class MainActivity extends AppCompatActivity implements MifareClassicData
 
           // set this last so we display immediately after returning:
           delayInitialTagDisplayHandler.postDelayed(delayInitialTagDisplayRunnable, LAUNCH_DEFAULT_TAG_DELAY);
-          Log.i(TAG, getString(com.maxieds.ParklinkMCTLibraryDemo.R.string.app_name) + " up and running AT " + MCTUtils.GetTimestamp());
+          Log.i(TAG, getString(com.maxieds.MCTLibraryDemo.R.string.app_name) + " up and running AT " + MCTUtils.GetTimestamp());
 
      }
 
